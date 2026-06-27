@@ -37,9 +37,9 @@ Python, YOLO, Face Recognition, HTML, CSS, JavaScript
    and unauthorized input.
 
 ## 🎬 Demo Video
-*(Drag your screen recording directly into this README's editor on GitHub —
-it will embed and play inline here, showing the full lockdown behavior that
-the live web demo above cannot replicate.)*
+
+https://github.com/user-attachments/assets/391e4130-2829-43c6-9e5b-3b7c91784ff4
+
 
 ## 📈 Future Improvements
 - Audio analysis to detect whispering/second voices
