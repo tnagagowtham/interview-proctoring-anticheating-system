@@ -1,4 +1,4 @@
-# 🎥 Real-Time Interview Proctoring & Anti-Cheating System
+# 🎥 Real-Time Interview Proctoring & Anti-Cheating Syste
 
 A real-time monitoring system for online interviews that detects suspicious
 behavior and enforces strict anti-cheating controls.
